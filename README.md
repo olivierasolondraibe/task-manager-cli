@@ -34,4 +34,7 @@ cd task-manager-cli
 dart pub get
 
 # Exécutez l'application
-dart run bin/main.dart
+dart run
+
+#Exécutez le test
+dart test
