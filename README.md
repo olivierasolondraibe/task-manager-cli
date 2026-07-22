@@ -1,1 +1,8 @@
-Pour lancer le test, il suffit de taper `dart test` sur le terminal
+**Pour lancer l'application**
+
+Taper la commande `dart run`
+
+**Pour lancer le test**
+
+Taper la commande
+`dart test`
