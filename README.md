@@ -1,1 +1,1 @@
-Pour lancer le test, il suffit de taper **dart test** sur le terminal
+Pour lancer le test, il suffit de taper `dart test` sur le terminal
